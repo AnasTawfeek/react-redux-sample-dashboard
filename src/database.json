@@ -1,0 +1,386 @@
+{
+  "users": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "jackie",
+        "last": "duncan"
+      },
+      "location": {
+        "street": "8254 homestead rd",
+        "city": "moscow",
+        "state": "massachusetts",
+        "postcode": 13620
+      },
+      "email": "jackie.duncan@example.com",
+      "login": {
+        "username": "heavylion568",
+        "password": "oliver",
+        "salt": "0l35fNtp",
+        "md5": "1578cd446e1f625974b026b978d66def",
+        "sha1": "789010fd759d37fa6b5b1d94cdf99edf7f1bb3e0",
+        "sha256": "9b2c326cacc4ae4e66ee09a2707eaae4bc135380a60e6788586ff51d444574f2"
+      },
+      "dob": "1967-10-30 22:14:33",
+      "registered": "2009-09-06 20:30:30",
+      "phone": "(588)-121-9760",
+      "cell": "(841)-757-2375",
+      "id": {
+        "name": "SSN",
+        "value": "547-97-8599"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/46.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "lester",
+        "last": "henry"
+      },
+      "location": {
+        "street": "4390 thornridge cir",
+        "city": "billings",
+        "state": "new hampshire",
+        "postcode": 32251
+      },
+      "email": "lester.henry@example.com",
+      "login": {
+        "username": "bluerabbit964",
+        "password": "sassy1",
+        "salt": "1JtelELr",
+        "md5": "c6992767cd61871c0880750bde0d3ec7",
+        "sha1": "a27b1af45a07c4fb0a36f0b4875bdf5ec7944c42",
+        "sha256": "1d0031e10893266cae019de8c96970d122dec1bb3e9ddbc385f83ae56b810ae5"
+      },
+      "dob": "1960-11-20 06:22:21",
+      "registered": "2010-02-07 08:00:09",
+      "phone": "(402)-843-8223",
+      "cell": "(665)-926-7450",
+      "id": {
+        "name": "SSN",
+        "value": "989-41-2340"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/9.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "oscar",
+        "last": "willis"
+      },
+      "location": {
+        "street": "2972 w belt line rd",
+        "city": "cedar hill",
+        "state": "pennsylvania",
+        "postcode": 46103
+      },
+      "email": "oscar.willis@example.com",
+      "login": {
+        "username": "crazycat538",
+        "password": "bricks",
+        "salt": "1VK8pAk6",
+        "md5": "e05e820fe604ccae0f000d17e5ab99c9",
+        "sha1": "c89ffc571fa695b60ebdff724582cea91b587915",
+        "sha256": "59c008728c6886eab6220f062ea2cc20aab0aa53f3a3dff4a5ef8442ca8ba783"
+      },
+      "dob": "1980-02-09 11:25:58",
+      "registered": "2006-02-18 09:37:26",
+      "phone": "(097)-701-9133",
+      "cell": "(279)-328-0529",
+      "id": {
+        "name": "SSN",
+        "value": "107-62-9999"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/26.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "anna",
+        "last": "hill"
+      },
+      "location": {
+        "street": "3652 depaul dr",
+        "city": "cedar rapids",
+        "state": "new york",
+        "postcode": 17899
+      },
+      "email": "anna.hill@example.com",
+      "login": {
+        "username": "ticklishfish651",
+        "password": "1992",
+        "salt": "0hy0dj7s",
+        "md5": "ef4e6768799ec50ea0ee0db7bea59705",
+        "sha1": "568722e0adfacf4c93b3aa6079bde53aa4517484",
+        "sha256": "b60e024c29ed2d6fbeb735296897bc5651457feadd04f82cdd5374d5e0cde22c"
+      },
+      "dob": "1961-05-05 22:18:15",
+      "registered": "2014-08-06 21:32:06",
+      "phone": "(299)-589-8267",
+      "cell": "(294)-767-2987",
+      "id": {
+        "name": "SSN",
+        "value": "236-17-4940"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/20.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/20.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "ramon",
+        "last": "johnson"
+      },
+      "location": {
+        "street": "2436 bruce st",
+        "city": "rockford",
+        "state": "texas",
+        "postcode": 98971
+      },
+      "email": "ramon.johnson@example.com",
+      "login": {
+        "username": "orangegoose706",
+        "password": "oakland",
+        "salt": "7BVrHnKd",
+        "md5": "db7df3a3dc10275a5adaa27ae872f08f",
+        "sha1": "4dd6aaf2fae43194393c9ca06b707900d45b887d",
+        "sha256": "bb36aea6c90c4d71b02c88fc0d6ca90f7d897bd23f62ac873ba3e0fbdc8ec610"
+      },
+      "dob": "1978-09-18 08:40:42",
+      "registered": "2011-11-16 05:38:19",
+      "phone": "(831)-044-9897",
+      "cell": "(103)-540-5389",
+      "id": {
+        "name": "SSN",
+        "value": "371-34-3744"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/97.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "wayne",
+        "last": "jensen"
+      },
+      "location": {
+        "street": "2404 e sandy lake rd",
+        "city": "madison",
+        "state": "michigan",
+        "postcode": 46708
+      },
+      "email": "wayne.jensen@example.com",
+      "login": {
+        "username": "bluefrog496",
+        "password": "chief",
+        "salt": "7ha1XvRm",
+        "md5": "1e2ffbde96d7c0476dea9f4772e39742",
+        "sha1": "6fa99f177941002c37e9b5f4b3cbe259d8549de1",
+        "sha256": "399b142a6a60b1c1a50feeb868baa6dee6adc9bb514daa2d9a0f539dec4e4d41"
+      },
+      "dob": "1968-01-23 19:00:53",
+      "registered": "2006-03-20 13:49:26",
+      "phone": "(489)-895-5439",
+      "cell": "(641)-669-8373",
+      "id": {
+        "name": "SSN",
+        "value": "437-50-7403"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/11.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "willard",
+        "last": "austin"
+      },
+      "location": {
+        "street": "3077 timber wolf trail",
+        "city": "cary",
+        "state": "maine",
+        "postcode": 32128
+      },
+      "email": "willard.austin@example.com",
+      "login": {
+        "username": "smalltiger833",
+        "password": "gregory",
+        "salt": "3E8aw2NS",
+        "md5": "2392a11f90449afe5ffda9a412d0d982",
+        "sha1": "3967c7308e266196fdb60ad658269b7c006c9e02",
+        "sha256": "e46aaeecabaa06e0641905d08fb327c2684718b01ece14ccdd9792f5e83ce78c"
+      },
+      "dob": "1972-11-17 15:02:27",
+      "registered": "2006-07-25 02:03:38",
+      "phone": "(370)-863-7713",
+      "cell": "(358)-668-3413",
+      "id": {
+        "name": "SSN",
+        "value": "394-72-0294"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/17.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "marian",
+        "last": "flores"
+      },
+      "location": {
+        "street": "3153 marsh ln",
+        "city": "green bay",
+        "state": "vermont",
+        "postcode": 37109
+      },
+      "email": "marian.flores@example.com",
+      "login": {
+        "username": "purpleduck604",
+        "password": "luck",
+        "salt": "vlZy5bUM",
+        "md5": "ee32b4d689a687a7e7572b8d7d28d79d",
+        "sha1": "4e2a1e0d2814060e836e035274a997c712adf850",
+        "sha256": "77b5723112d31f72b473f8dcb4af2aa85469988f17a305a2c1bb22a234207361"
+      },
+      "dob": "1960-06-12 06:50:29",
+      "registered": "2005-09-29 01:21:01",
+      "phone": "(006)-947-5681",
+      "cell": "(330)-088-7162",
+      "id": {
+        "name": "SSN",
+        "value": "583-48-0920"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/19.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "judd",
+        "last": "welch"
+      },
+      "location": {
+        "street": "5384 spring hill rd",
+        "city": "new haven",
+        "state": "alaska",
+        "postcode": 54744
+      },
+      "email": "judd.welch@example.com",
+      "login": {
+        "username": "greenladybug851",
+        "password": "fanny",
+        "salt": "EA7LNJPO",
+        "md5": "d86ed3402e5b28a063c4446002d54c8e",
+        "sha1": "5fdd0856156e1df6e1d783c4ac17b8b3a3537549",
+        "sha256": "ae122808eb303ba74f6c19e5ca3de64b2b2a8139f2536146eabc79fb4a54115d"
+      },
+      "dob": "1974-07-22 00:10:25",
+      "registered": "2015-06-01 10:35:38",
+      "phone": "(779)-773-3779",
+      "cell": "(381)-491-1224",
+      "id": {
+        "name": "SSN",
+        "value": "534-50-1474"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/53.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "dennis",
+        "last": "stephens"
+      },
+      "location": {
+        "street": "1887 college st",
+        "city": "pasadena",
+        "state": "new mexico",
+        "postcode": 72232
+      },
+      "email": "dennis.stephens@example.com",
+      "login": {
+        "username": "tinypeacock227",
+        "password": "awesome",
+        "salt": "vAq46UP6",
+        "md5": "2de7dfb4e944b49b9d4a45936ad73005",
+        "sha1": "bc8be846a0b39f7273b03b9eada3a399f857c42e",
+        "sha256": "5813ac3b37ec61bf51158835d58159b4d110f2dabde2c68ce6caa47ac47d43e0"
+      },
+      "dob": "1973-08-30 14:19:30",
+      "registered": "2011-05-28 17:50:35",
+      "phone": "(110)-395-5763",
+      "cell": "(991)-559-8199",
+      "id": {
+        "name": "SSN",
+        "value": "524-41-6607"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/59.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+      },
+      "nat": "US"
+    }
+  ],
+  "todos": [
+    {
+      "content": "Finish new project estimate",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "content": "Complete react assignment",
+      "complete": true,
+      "id": 2
+    }
+  ]
+}

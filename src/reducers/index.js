@@ -1,11 +1,10 @@
 import {combineReducers} from 'redux';
+import users from './users';
+import todos from './todos';
 
 const rootReducer = combineReducers({
-    /**
-     * This is sample reducer because creating store
-     * without any reducers will cause error.
-     */
-    sample: (store = {bar: 'foo'}, action) => store
+    users,
+    todos
 })
 
 export default rootReducer;
